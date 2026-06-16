@@ -24,6 +24,7 @@ At the moment, the challenges in this repository primarily focus on:
 - Conditional logic
 - Loops and iteration
 - Fundamental problem-solving techniques
+- Binary Search
 
 As I complete more challenges, the range of topics covered will expand.
 
