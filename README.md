@@ -33,6 +33,7 @@ As I complete more challenges, the range of topics covered will expand.
 Current solutions are written in:
 
 - Python
+- Java 8
 
 Additional languages may be added in the future.
 
